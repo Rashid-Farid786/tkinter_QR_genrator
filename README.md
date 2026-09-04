@@ -1,0 +1,1 @@
+# tkinter_QR_genrator
